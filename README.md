@@ -9,7 +9,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 - SQL
 - Tableau
 - Python
-- Resource
+- Data Science Resource
 
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you!
 
