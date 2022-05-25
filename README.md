@@ -18,6 +18,8 @@ Click on the project's title (bold and coloured in Blue) to view my projects! Th
 # SQL
 ## 🎶 [Music Database Case Study](https://github.com/nitesht2/Music-Database-case-study-using-SQL)
 
+Analyzing music database that contains information about the artists, songs, and albums from the music shop, as well as information on the shop's employees, customers, and the customers purchases.
+
 #### Learning Outcome:
 
 - Filtering.
@@ -29,7 +31,22 @@ Click on the project's title (bold and coloured in Blue) to view my projects! Th
 
 ## 🛍 [Sales and Marketing Data Analysis](https://github.com/nitesht2/Sales-and-Marketing-Data-Analysis-in-SQL)
 
+- Data Analysis of company that have sales representatives spread across the US in four regions and thier product line includes regular, poster and glossy papers. 
+- Answering business request that contains multiple question from sales and marketing department.
+
 ## 💽[ DVD Rental Sales Analysis](https://github.com/nitesht2/DVD-Rental-Sales-Analysis-Using-SQL)
+
+Used PostgreSQL on the DVD Rental database for analysis. Following task were done during the analysis:
+
+- Created tables and databases with constraints on data entries
+
+-  Used the basics SQL syntax and analyzed data using aggregate functions with GROUP BY commands
+
+- Run advanced queries with string operations and comparison operations
+
+- Used logical operators to add logic flow to SQL queries
+
+- Used common SQL JOIN commands
 
 ------------------------------
 
