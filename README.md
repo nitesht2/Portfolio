@@ -4,7 +4,7 @@ Hi there!
 
 Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
 
-## 📚 Table of Contents
+# 📚 Table of Contents
 
 - SQL
 - Tableau
