@@ -50,6 +50,19 @@ This project is a part of Google Data Analytics Professional Certification.
 
 Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt.
 
+## 🦄 [Unicorn Companies Data Analysis and Visualization](https://github.com/nitesht2/Unicorn-Companies-Data-Analysis-Visualization)
+
+This project was accomplished for Maven data challange. I used Python for data cleaning and wrangling. I removed rows with missing values, cleaned numerical columns and cast as float, and exploded "investors" column for further analysis.
+
+Then, I visualised the following metrics using Tableau.
+
+- COUNTRY with largest valuations
+- Most SUCCESSFUL unicorns
+- INDUSTRIES with highest average valuations
+- INVESTORS with largest combined valuations
+- YEARS taken to be unicorn
+
+
 
 
 
