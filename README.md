@@ -4,7 +4,7 @@ Hi there!
 
 Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
 
-📚 Table of Contents
+## 📚 Table of Contents
 
 - Python
 - SQL
@@ -16,4 +16,21 @@ Click on the project's title (bold and coloured in Blue) to view my projects! Th
 ------------------------
 
 # SQL
-📚 
+## 🎶 [Music Database Case Study](https://github.com/nitesht2/Music-Database-case-study-using-SQL)
+
+#### Learning Outcome:
+
+- Filtering.
+- Joining.
+- Grouping.
+- Sorting.
+- CTE & Sub-queries.
+- Date, Math and Text Functions.
+
+## 🛍 [Sales and Marketing Data Analysis](https://github.com/nitesht2/Sales-and-Marketing-Data-Analysis-in-SQL)
+
+##  🎶 [DVD Rental Sales Analysis](https://github.com/nitesht2/DVD-Rental-Sales-Analysis-Using-SQL)
+
+
+
+
