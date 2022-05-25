@@ -65,7 +65,6 @@ Then, I visualised the following metrics using Tableau.
 # 📚 Data Science Resource:
 Here is the comprehensive list of all the data science resources which includes video tutorial, courses, websites, practice sets and projects. 
 # Resources
-Credit: https://github.com/katiehuangx
 
 Here's a comprehensive list of free SQL resources.
 
