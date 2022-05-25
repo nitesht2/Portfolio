@@ -29,7 +29,15 @@ Click on the project's title (bold and coloured in Blue) to view my projects! Th
 
 ## 🛍 [Sales and Marketing Data Analysis](https://github.com/nitesht2/Sales-and-Marketing-Data-Analysis-in-SQL)
 
-##  🎶 [DVD Rental Sales Analysis](https://github.com/nitesht2/DVD-Rental-Sales-Analysis-Using-SQL)
+## 💽[ DVD Rental Sales Analysis](https://github.com/nitesht2/DVD-Rental-Sales-Analysis-Using-SQL)
+
+------------------------------
+
+# Tableau
+
+## 🔶 [Marketing Campaign Data Analysis](https://github.com/nitesht2/Marketing-Campaign-Data-Visualization)
+
+## 📧 [Email Marketing Data Analysis](https://github.com/nitesht2/Email-Marketing-Data-Analysis-and-Visualization)
 
 
 
