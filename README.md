@@ -1,4 +1,4 @@
-# Portfolio
+# Nitesh Thapa Portfolio
 
 Hi there!
 
